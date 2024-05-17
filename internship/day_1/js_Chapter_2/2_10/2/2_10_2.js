@@ -1,6 +1,7 @@
 "use strict";
 let str = prompt('What is the “official” name of JavaScript?',);
-if(str == ECMAScript)
+
+if(str == 'ECMAScript')
     {
         alert('Right!');
     }
